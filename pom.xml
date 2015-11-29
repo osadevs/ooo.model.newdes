@@ -44,5 +44,10 @@
 			
 		</plugins>
 	</build>
+	
+	<modules>
+		<module>../ooo.model.newdes.helloworld-event</module>
+    	<module>../ooo.model.newdes.helloworld-process</module>
+	</modules>
 
 </project>
